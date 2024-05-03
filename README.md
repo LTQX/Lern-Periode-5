@@ -1,6 +1,6 @@
 # Lern-Periode-5
 
-23.4 bis 25.6.2024
+03.5 bis 25.6.2024
 
 ## Grob-Planung
 
@@ -8,15 +8,15 @@
 2. Ich habe vorgennomen mehr KI in meinen Arbeiten zu benutzen. Ich werde einfach versuchen KI zu benutzen, wenn ich etwas debuggen muss oder wenn ich eine normale Frage habe.
 3. Ein geeignetes Projekt für die LP5 wäre eine Website zu erstellen. Ich bin sehr gespannt was daraus wird. Ich habe in der vergangenheit schon einmal mit VS-Code gearbeitet, aber ich habe alles schon verlernt.
 
-## 23.4.2024
+## 03.5.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich fleißig an Visual Studio Code gearbeitet. Ursprünglich plante ich, auf meinem Macbook zu arbeiten, aber das war leider nicht möglich, da ich keine externe Festplatte hatte. Also entschied ich mich stattdessen für Visual Studio Code. Das Programmieren macht endlich Spaß! 😝 Ich habe ein kleines Demo mit HTML erstellt und zum ersten Mal CSS verwendet. Es ist wirklich interessant, sich damit zu beschäftigen. Insgesamt habe ich heute gut und zielgerichtet gearbeitet. Ich freue mich schon auf das nächste Mal! (81 Wörter)
 
-## 30.4.2024
+## 17.5.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Mit dem Design vom Main-Container fertig werden, einfache Farben benutzen.
+- [ ] Den Code schön ordnen.
+- [ ] Tutorial anschauen: https://www.youtube.com/watch?v=FQdaUv95mR8&pp=ygUOLmh0bWwgdHV0b3JpYWw%3D
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
