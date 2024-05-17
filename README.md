@@ -14,10 +14,18 @@
 
 ## 17.5.2024
 
-- [ ] Mit dem Design vom Main-Container fertig werden, einfache Farben benutzen.
-- [ ] Den Code schön ordnen.
-- [ ] Tutorial anschauen: https://www.youtube.com/watch?v=FQdaUv95mR8&pp=ygUOLmh0bWwgdHV0b3JpYWw%3D
+- [x] Mit dem Design vom Main-Container fertig werden, einfache Farben benutzen.
+- [x] Den Code schön ordnen.
+- [x] Tutorial anschauen: https://www.youtube.com/watch?v=FQdaUv95mR8&pp=ygUOLmh0bWwgdHV0b3JpYWw%3D
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich sehr gut und konzentriert gearbeitet. Ich bin vorwärts gekommen. Ursprünglich habe ich an einem Projekt gearbeitet, das sich mit Lieblings-YouTube-Videos beschäftigt hat. Jetzt habe ich jedoch mein Projekt geändert und arbeite an persönlichen Videos. Diese neue Richtung ist sehr interessant, und ich freue mich auf das nächste Mal. (51 Wörter)
+
+## 17.5.2024
+
+- [ ] Noch 1 Video hinzufügen.
+- [ ] Den Design vom Main Body ändern, sodass es sauber aussieht.
+- [ ] Den CSS Code neu ordnen und mit Kommentaren beschriften, sodass es besser erkennbar ist.
+
+✍️ Heute habe ich... (50-100 Wörter)
