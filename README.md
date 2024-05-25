@@ -22,10 +22,19 @@
 
 Heute habe ich sehr gut und konzentriert gearbeitet. Ich bin vorwärts gekommen. Ursprünglich habe ich an einem Projekt gearbeitet, das sich mit Lieblings-YouTube-Videos beschäftigt hat. Jetzt habe ich jedoch mein Projekt geändert und arbeite an persönlichen Videos. Diese neue Richtung ist sehr interessant, und ich freue mich auf das nächste Mal. (51 Wörter)
 
-## 17.5.2024
+## 24.5.2024
 
 - [ ] Noch 1 Video hinzufügen.
-- [ ] Den Design vom Main Body ändern, sodass es sauber aussieht.
-- [ ] Den CSS Code neu ordnen und mit Kommentaren beschriften, sodass es besser erkennbar ist.
+- [x] Den Design vom Main Body ändern, sodass es sauber aussieht.
+- [x] Den CSS Code neu ordnen und mit Kommentaren beschriften, sodass es besser erkennbar ist.
+
+✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mich intensiv mit dem Code beschäftigt. Ich habe einen YouTube-Kanal erstellt und die Videos hochgeladen; momentan sind sie auf privat gestellt. In der nächsten Stunde werde ich dann die YouTube-Videos mithilfe von Iframes mit dem Code verbinden. Insgesamt habe ich heute viel gelernt und bin mit meinen Fortschritten zufrieden. (52 Wörter)
+
+## 31.5.2024
+
+- [ ] Sorgen das ich das Youtube video freigeben kann.
+- [ ] Das Youtube video ab einem bestimmten Zeitpunkt automatisch abspielen lassen.
+- [ ] Testen ob die Website repsonsiv ist und nach Fehlern suchen (Verbesserungsmöglichkeiten).
 
 ✍️ Heute habe ich... (50-100 Wörter)
