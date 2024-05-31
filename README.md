@@ -38,3 +38,12 @@ Heute habe ich mich intensiv mit dem Code beschäftigt. Ich habe einen YouTube-K
 - [ ] Testen ob die Website repsonsiv ist und nach Fehlern suchen (Verbesserungsmöglichkeiten).
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich an meinem Code gearbeitet. Dabei habe ich versucht, ein YouTube-Video in meine Webseite einzubinden, aber es ist mir nicht gelungen. Da ich so viel Zeit für das Einfügen des Videos gebraucht habe, konnte ich die Webseite nicht darauf testen, ob sie responsiv ist. Nächste Woche werde ich erneut versuchen, das YouTube-Video zum Laufen zu bringen und sicherzustellen, dass die Webseite auf verschiedenen Geräten gut aussieht und funktioniert. Ich hoffe, dass ich beim nächsten Versuch erfolgreicher bin und die Aufgabe schneller bewältigen kann. (85 Wörter)
+
+## 07.5.2024
+
+- [ ] Sorgen das ich das Youtube video freigeben kann.
+- [ ] Das Youtube video ab einem bestimmten Zeitpunkt automatisch abspielen lassen.
+- [ ] Testen ob die Website repsonsiv ist und nach Fehlern suchen (Verbesserungsmöglichkeiten).
+
+✍️ Heute habe ich... (50-100 Wörter)
