@@ -1,0 +1,8 @@
+/* Styles specific to "HTML Code" section */
+#html-code {
+    /* Add your specific styles here */
+    background-color: #fff;
+    /* Example background */
+    padding: 2em;
+    border-radius: 8px;
+}

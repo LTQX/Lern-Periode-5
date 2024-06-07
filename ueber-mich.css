@@ -1,0 +1,10 @@
+/* Styles specific to "Über mich" section */
+#ueber-mich {
+    background-color: #fff;
+    padding: 2em;
+    border-radius: 8px;
+}
+
+#ueber-mich p {
+    line-height: 1.8;
+}
