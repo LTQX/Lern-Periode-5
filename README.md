@@ -47,3 +47,5 @@ Heute habe ich an meinem Code gearbeitet. Dabei habe ich versucht, ein YouTube-V
 - [ ] Testen ob die Website repsonsiv ist und nach Fehlern suchen (Verbesserungsmöglichkeiten).
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
+Heute habe ich an meinem Code gearbeitet. Dabei habe ich mir erneut Gedanken über mein Projekt gemacht und festgestellt, dass ich kein klares Ziel vor Augen hatte. Deshalb habe ich mein Projekt angepasst – zumindest teilweise. Ich habe ein Hauptmenü hinzugefügt und alle Abschnitte im Code strukturiert. Anfangs lief alles reibungslos, doch plötzlich funktionierte nichts mehr. Ich bat Gemini, meinen Code zu überprüfen und zu kommentieren. Gemini ließ den Code jedoch unangetastet, da es angeblich keine Fehler gab, und fügte lediglich erklärende Kommentare hinzu. Heute war dennoch ein guter Tag, denn ich habe nun ein Ziel für mein Projekt gefunden: Ich möchte das Leute ein Bild von mir selbst bekommen und herausfinden, was für eine Person ich bin. (117 Wörter)
