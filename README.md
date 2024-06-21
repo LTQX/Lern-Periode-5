@@ -68,3 +68,13 @@ Heute habe ich an meinem Code gearbeitet und ich habe die Website wieder von 0 a
 - [ ] Testen ob die Website repsonsiv ist und nach Fehlern suchen (Verbesserungsmöglichkeiten).
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
+Heute habe ich intensiv an meiner Website gearbeitet und bin dabei sehr weit gekommen. Leider konnte ich den Code nicht hochladen, da ich zu viele Dateien habe. Ich habe die Arbeitspakete noch nicht bearbeitet, da sie noch nicht richtig funktionieren. Ich werde mich nächste Woche darum kümmern und hoffe, dass ich die Probleme dann lösen kann. Es ist wichtig, dass alles reibungslos läuft, bevor ich die Website veröffentliche. (68 Wörter)
+
+
+## 28.5.2024
+
+- [ ] Sorgen das ich das Youtube video freigeben kann.
+- [ ] Das Youtube video ab einem bestimmten Zeitpunkt automatisch abspielen lassen.
+
+✍️ Heute habe ich... (50-100 Wörter)
