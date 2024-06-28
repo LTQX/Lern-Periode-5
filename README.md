@@ -1,5 +1,18 @@
 # Lern-Periode-5
 
+
+# Fertiges Projekt
+
+Meine Webseite bietet einen umfassenden Überblick über mein Leben und meine Interessen. Sie enthält spezielle Features wie eine übersichtliche Navigation, eine ansprechende Gestaltung mit responsivem Design, und Einblicke in meine Leidenschaft für Informatik und Fußball. Es gibt auch eine Codes-Seite mit HTML- und CSS-Beispielen, eine Kontaktseite, sowie eine Galerie mit KI-generierten Bildern und Lieblingsvideos. (54 Wörter)
+
+Bild 1 (Hauptmenu):
+
+Bild 2 (Fotos-videos):
+
+GIF:
+
+
+
 03.5 bis 25.6.2024
 
 ## Grob-Planung
